@@ -104,7 +104,7 @@ author:
   avatar           : "/images/nightwindows.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Jersey City, NJ"
-  email            :
+  email            : "yc3404@columbia.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
