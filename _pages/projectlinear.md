@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /linear-regression/
-title: "Linear Regression Project"
+permalink: /datascience/
+title: "Data Science Portfolio"
 author_profile: true
 header:
   image: "/images/image1.jpg"

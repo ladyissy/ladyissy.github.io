@@ -2,8 +2,27 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Linear Regression"
-    url: /linear-regression/
+  - title: "Portfolio"
+    url: /datascience/
+  - title: "search"
+    url: /search/
+siderbar:
+  title: "Data Science Portfolio"
+  nav: sidebar-sample
+sidebar-sample:
+  -title: "Linear Regression"
+  children:
+   -title: "Wage Differences between three races"
+    url: /linear/
+  -title: "Data Analysis"
+   children:
+     -title: "Birthweight data study"
+     url: /birthwt/
+  -title: "Bayes Statistics"
+   children:
+     -title:"Hierarchical modeling with Stan"
+     url: /bayes/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
