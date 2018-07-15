@@ -1,3 +1,8 @@
+---
+siderbar:
+  title: "Data Science Portfolio"
+  nav: sidebar-sample
+---
 main:
   - title: "About"
     url: /about/
