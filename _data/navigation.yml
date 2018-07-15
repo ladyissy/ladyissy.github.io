@@ -2,7 +2,6 @@
 siderbar:
   title: "Data Science Portfolio"
   nav: sidebar-sample
----
 main:
   - title: "About"
     url: /about/
@@ -23,7 +22,7 @@ sidebar-sample:
    children:
      -title:"Hierarchical modeling with Stan"
      url: /bayes/
-
+---
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
