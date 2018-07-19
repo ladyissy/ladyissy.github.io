@@ -2,17 +2,17 @@ docs:
   -title: Linear Regression
   children:
    -title: "Wage Differences between three races"
-    url: /linear/
+    url: /docs/linear/
 
   -title: Data Analysis
    children:
      -title: "Birthweight data study"
-     url: /birthwt/
+     url: /docs/birthwt/
 
   -title: Bayes Statistics
    children:
      -title: "Hierarchical modeling with Stan"
-     url: /bayes/
+     url: /docs/bayes/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
