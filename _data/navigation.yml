@@ -1,3 +1,4 @@
+# main links
 main:
-  -title: "Portfolio"
-   url: /datascience/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
