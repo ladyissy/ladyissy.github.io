@@ -2,12 +2,4 @@ main:
   -title: "About"
    url: /about/
   -title: "Portfolio"
-  url: /datascience/
-
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  #   url: /sitemap/
+   url: /datascience/
