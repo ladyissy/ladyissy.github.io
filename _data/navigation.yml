@@ -1,4 +1,8 @@
-
+main:
+  -title: "About"
+   url: /about/
+  -title: "Portfolio"
+  url: /datascience/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -6,5 +10,4 @@
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
   #   url: /sitemap/
