@@ -4,7 +4,7 @@ permalink: /datascience/
 title: "Data Science Portfolio"
 author_profile: true
 header:
-  image: "/images/image1.jpg"
+  image: "/images/data1.jpg"
 ---
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
