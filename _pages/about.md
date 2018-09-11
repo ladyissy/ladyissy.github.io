@@ -5,15 +5,9 @@ header:
   image: "/images/data1.jpg"
 ---
 I am a statistics student who excels at data exploratory analysis and data visualization. Currently actively seeking data analyst/business analyst full time position and would prefer to work in the tri-state area.
-[Resume](https://github.com/ladyissy/ladyissy.github.io/blob/master/assets/docs/yc_resume.pdf)
+Here is my [Resume](https://www.dropbox.com/s/qi5h8a43zh2b07d/yc_resume.pdf?dl=0)
 
-# Resume
-**Education**
-* Columbia University, NY
-  09/2017-12/2018
-  Courses
-  * Probability
-  * Statistical Inference
+
 
 
 **Credits**
