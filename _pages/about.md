@@ -4,7 +4,15 @@ permalink: /about/
 header:
   image: "/images/data1.jpg"
 ---
-I am a statistics student who excels at data exploratory analysis and data visualization. Currently actively seeking data analyst/business analyst full time position and would prefer to work in the tri-state area. Attached is my resume.
+I am a statistics student who excels at data exploratory analysis and data visualization. Currently actively seeking data analyst/business analyst full time position and would prefer to work in the tri-state area.
+
+# Resume
+**Education**
+* Columbia University, NY
+  09/2017-12/2018
+  Courses
+  * Probability
+  * Statistical Inference
 
 
 **Credits**
