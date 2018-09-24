@@ -5,7 +5,7 @@ header:
   image: "/images/data1.jpg"
 ---
 I am a statistics student who excels at data exploratory analysis and data visualization. Currently actively seeking data analyst/business analyst full time position and would prefer to work in the tri-state area.
-Here is my [Resume](https://www.dropbox.com/s/qi5h8a43zh2b07d/yc_resume.pdf?dl=0)
+Here is my [Resume](https://www.dropbox.com/s/2xp3czwg3sqyj2l/YC_Resume%20%281%29.pdf?dl=0)
 
 
 
