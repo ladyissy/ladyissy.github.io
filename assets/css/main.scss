@@ -7,7 +7,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 html {
-  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   font-size: 10px; // change to whatever
 
   @include breakpoint($medium) {
@@ -24,5 +23,5 @@ html {
 }
   .thin-text{
     font-size: 12px;
-    font-family:'Montserrat', sans-serif;
+    font-family:sans-serif;
   }
