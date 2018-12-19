@@ -1,12 +1,13 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 html {
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   font-size: 10px; // change to whatever
 
   @include breakpoint($medium) {
