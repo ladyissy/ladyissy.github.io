@@ -1,7 +1,7 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
