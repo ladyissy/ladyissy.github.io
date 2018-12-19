@@ -4,7 +4,15 @@ permalink: /about/
 header:
   image: "/images/data1.jpg"
 ---
-I am a statistics student who excels at data exploratory analysis and data visualization. Currently actively seeking data analyst/business analyst full time position and would prefer to work in the tri-state area.
+Actively looking for 2019 full time data analyst opportunity in the tri-state area/Bay area, would like to work at companies with size 1000+.
+Proficient in R (especially creating visualization with ggplot2 and plotly).
+Please contact me ASAP if you would like to know more about me.
+
+Keywords: R, SQL, data science, data analyst, data visualization, data analysis, database.
+Skills: Excel (vlookup), Powerpoint, Word.
+
+Personally I am a broadway fan and my favorite musical is Come From Away -- a musical based on a shocking true story yet warm at heart.
+
 Here is my [Resume](https://www.dropbox.com/s/5e3s74bvdsl1n1z/Yc_ds.pdf?dl=0)
 
 
