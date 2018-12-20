@@ -6,7 +6,6 @@ header:
 ---
 <div class="thin-text">
 Actively looking for 2019 full time data analyst opportunity in the tri-state area/Bay area, would like to work at companies with size 1000+.
-</div>
 <br>
 <div class="thin-text">
 Proficient in R (especially creating visualization with ggplot2 and plotly).
@@ -14,12 +13,11 @@ Please contact me ASAP if you would like to know more about me.
 </div>
 <br>
 <div class="thin-text">
-<strong>Keywords:</strong> R, SQL, data science, data analyst, data visualization, data analysis, database.
-<strong>Skills:</strong> Excel (vlookup), Powerpoint, Word.
-<strong>Machine Learning skills:</strong> Linear regression, logistic regression, KNN, Decision trees, Support Vector
-Machine, PCA
-<strong>Courses:</strong> Advanced data analysis, Statistical Inference, Bayesian Statistics, Linear regression models, Statistical Computing, Applied Data Science, Machine Learning
-</div>
+<ul>
+<li><strong>Keywords:</strong> R, SQL, data science, data analyst, data visualization, data analysis, database.</li>
+<li><strong>Skills:</strong> Excel (vlookup), Powerpoint, Word.</li>
+<li><strong>Machine Learning skills:</strong> Linear regression, logistic regression, KNN, Decision trees, Support Vector Machine, PCA</li>
+<li><strong>Courses:</strong> Advanced data analysis, Statistical Inference, Bayesian Statistics, Linear regression models, Statistical Computing, Applied Data Science, Machine Learning</li>
 <br>
 <div class="thin-text">
 Personally I am a broadway fan and my favorite musical is Come From Away -- a musical based on a shocking true story yet warm at heart.
