@@ -6,12 +6,16 @@ header:
 ---
 <div class="thin-text">
 Actively looking for 2019 full time data analyst opportunity in the tri-state area/Bay area, would like to work at companies with size 1000+.
+</div>
+<div class="thin-text">
 Proficient in R (especially creating visualization with ggplot2 and plotly).
 Please contact me ASAP if you would like to know more about me.
-
+</div>
+<div class="thin-text">
 Keywords: R, SQL, data science, data analyst, data visualization, data analysis, database.
 Skills: Excel (vlookup), Powerpoint, Word.
-
+</div>
+<div class="thin-text">
 Personally I am a broadway fan and my favorite musical is Come From Away -- a musical based on a shocking true story yet warm at heart.
 </div>
 Here is my [Resume](https://www.dropbox.com/s/5e3s74bvdsl1n1z/Yc_ds.pdf?dl=0)
