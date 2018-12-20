@@ -7,7 +7,6 @@ header:
 <div class="thin-text">
 Actively looking for 2019 full time data analyst opportunity in the tri-state area/Bay area, would like to work at companies with size 1000+.
 <br>
-<div class="thin-text">
 Proficient in R (especially creating visualization with ggplot2 and plotly).
 Please contact me ASAP if you would like to know more about me.
 </div>
