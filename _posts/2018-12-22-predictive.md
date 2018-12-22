@@ -39,5 +39,10 @@ All team members contributed equally in all stages of this project. All team mem
 <br>
 <h1 style="font-family:'Roboto';font-size:18px;">References</h1>
 <ol class="thin-text">
-<li><a href="https://rpubs.com/mharris/multiclass_xgboost"></a> : Perform XGBoost</li>
+<li><a href="https://rpubs.com/mharris/multiclass_xgboost">https://rpubs.com/mharris/multiclass_xgboost</a>: Perform XGBoost</li>
+<li><a href="http://www.milanor.net/blog/cross-validation-for-predictive-analytics-using-r/ ">http://www.milanor.net/blog/cross-validation-for-predictive-analytics-using-r/ </a>: CV error</li>
+<li><a href="https://cran.r-project.org/web/packages/gbm/gbm.pdf">https://cran.r-project.org/web/packages/gbm/gbm.pdf</a>,<a href="https://github.com/TZstatsADS/Fall2017-project3-grp3">https://github.com/TZstatsADS/Fall2017-project3-grp3</a>: Perform GBM</li>
+<li><a href="https://github.com/tegg89/SRCNN-Tensorflow">https://github.com/tegg89/SRCNN-Tensorflow</a>: SRCNN</li>
 </ol>
+<br>
+<h2 class="thin-text">You can find the code of this project <a href="https://github.com/TZstatsADS/Fall2018-Proj3-Sec2-grp2.git">here</a>.</h2>
