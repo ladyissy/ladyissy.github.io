@@ -22,7 +22,7 @@ siderbar:
 <figure>
   <img src="/images/predictive/flow.png">
 </figure>
-<li>Additionally, we use deep convolution nerual network to evulate the prediction analysis and obtain a PSNR of around 50 and a consuming time of around 45 minutes, but it did not satisfy the requirement of expanding image dimension. Thus, we choose not to use that model here.</li>
+<li>Additionally, we use deep convolution neural network to evaluate the prediction analysis and obtain a PSNR of around 50 and a consuming time of around 45 minutes, but it did not satisfy the requirement of expanding image dimension. Thus, we choose not to use that model here.</li>
 </ul>
 <br>
 <h1 style="font-family:'Roboto';font-size:18px;">Contribution Statement</h1>
@@ -31,7 +31,7 @@ All team members contributed equally in all stages of this project. All team mem
 </div>
 <ul class="thin-text">
 <li><strong>Yang Cai:</strong> is responsible for constructing the features and developing the GBM model.</li>
-<li><strong>Yang Chen:</strong> Built baseline model(GBM). Eveulate model with SR-CNN tensorflow. Updated the Summary section in the Readme file of the project. Prepare for this project from the group.</li>
+<li><strong>Yang Chen:</strong> Built baseline model(GBM). Evaluate model with SR-CNN Tensorflow. Updated the Summary section in the Readme file of the project. Prepare for this project from the group.</li>
 <li><strong>Yiming Shi:</strong> is responsible for constructing the features and developing the GBM model.</li>
 <li><strong>Kehui Zhu:</strong> is responsible for constructing the features and developing the GBM model.</li>
 <li><strong>Siyu Zhu:</strong> Main contributor to the baseline model (completed the feature.R and superResolution.R) and Optimal model(XGBoost model). Responsible for GBM and XGBoost models' parameters tuning. Assist with the SRCNN model's implementation.</li>
