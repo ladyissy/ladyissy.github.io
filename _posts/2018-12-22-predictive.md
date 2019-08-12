@@ -1,7 +1,7 @@
 ---
 title: "Predictive analytics for image super-resolution"
 date: 2018-07-14
-tags: [predictive modeling]
+tags: [Machine Learning]
 header:
   overlay_image: "/images/yellow.jpg"
   overlay_filter: 0.2
