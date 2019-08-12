@@ -5,15 +5,17 @@ header:
   image: "/images/data1.jpg"
 ---
 <div class="thin-text">
-Actively looking for 2019 full time data analyst opportunity in the tri-state area/Bay area, would like to work at companies with size 1000+.
+Actively looking for 2019 full time data analyst opportunity in the Greater New York City area/Bay area.
 <br>
-Proficient in R (especially creating visualization with ggplot2 and plotly).
+Proficient in R (especially creating visualization with ggplot2 and plotly) and SQL (MySQL, SQL Server, PostgreSQL).
+Familiar with Python(pandas, sklearn, numpy).
+Use Tableau for visualization.
 Please contact me ASAP if you would like to know more about me.
 </div>
 
 <div class="thin-text">
 <ul>
-<li><strong>Keywords:</strong> R, SQL, data science, data analyst, data visualization, data analysis, database.</li>
+<li><strong>Keywords:</strong> R, SQL, Python, Tableau, data science, data analyst, data visualization, data analysis, database.</li>
 <li><strong>Skills:</strong> Excel (vlookup), Powerpoint, Word.</li>
 <li><strong>Machine Learning skills:</strong> Linear regression, logistic regression, KNN, Decision trees, Support Vector Machine, PCA</li>
 <li><strong>Courses:</strong> Advanced data analysis, Statistical Inference, Bayesian Statistics, Linear regression models, Statistical Computing, Applied Data Science, Machine Learning</li>
@@ -25,7 +27,7 @@ Personally I am a broadway fan and my favorite musical is Come From Away -- a mu
 </div>
 <br>
 <div class="thin-text">
-Here is my <a href="https://www.dropbox.com/s/5e3s74bvdsl1n1z/Yc_ds.pdf?dl=0"><strong>Resume</strong></a></div> <!--[Resume](https://www.dropbox.com/s/5e3s74bvdsl1n1z/Yc_ds.pdf?dl=0)-->
+Here is my <a href="https://www.dropbox.com/s/l1yf87nfyoqzyal/yang_cai_ds.pdf?dl=0"><strong>Resume</strong></a></div> <!--[Resume](https://www.dropbox.com/s/5e3s74bvdsl1n1z/Yc_ds.pdf?dl=0)-->
 
 
 
