@@ -5,12 +5,11 @@ header:
   image: "/images/data1.jpg"
 ---
 <div class="thin-text">
-Actively looking for 2019 full time data analyst opportunity in the Greater New York City area/Bay area.
+Actively looking for 2019 full time data analyst/scientist opportunities in the Greater New York City area.
 <br>
 Proficient in R (especially creating visualization with ggplot2 and plotly) and SQL (MySQL, SQL Server, PostgreSQL).
 Familiar with Python(pandas, sklearn, numpy).
 Use Tableau for visualization.
-Please contact me ASAP if you would like to know more about me.
 </div>
 
 <div class="thin-text">
