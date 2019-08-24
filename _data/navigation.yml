@@ -4,3 +4,5 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /datascience/
+  - title: "Visualization"
+    url: /tags/viz/
